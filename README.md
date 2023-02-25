@@ -1,3 +1,4 @@
 # https://marcelotorres1982.github.io/gerador_de_senhas/
-![gerador de senhas site](https://user-images.githubusercontent.com/5902370/221383397-7428c72e-e6c1-48f2-accc-83cc8cad7145.png)
+![gerador de senhas site - update](https://user-images.githubusercontent.com/5902370/221384428-25eccb49-fa50-4d3a-9e1d-cdbd59d4cadc.png)
+
 
