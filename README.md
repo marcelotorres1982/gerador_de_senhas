@@ -1,1 +1,1 @@
-# gerador_de_senhas
+# Gerador de senhas front end
